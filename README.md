@@ -1,9 +1,6 @@
-# FlyFiles
-# 🚀 SwiftShare – LAN File Transfer with Beautiful UI
+# 🚀 FlyFiles – LAN File Transfer with Beautiful UI
 
-**SwiftShare** is a lightweight Python web application that lets you easily transfer files between devices on the same network using a stylish web interface built with Flask and Bootstrap.
-
-![SwiftShare Screenshot](screenshot.png)
+**FlyFiles** is a lightweight Python web application that lets you easily transfer files between devices on the same network using a stylish web interface built with Flask and Bootstrap.
 
 ---
 
@@ -41,7 +38,6 @@ python app.py
 
 <p float="left">
   <img src="screenshots/upload.png" width="45%"/>
-  <img src="screenshots/download.png" width="45%"/>
 </p>
 
 ---
